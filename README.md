@@ -25,8 +25,7 @@ Shift Select Checkbox is a JavaScript application that allows users to select mu
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/shift-select-checkbox.git
-2. 
+1. Clone the repository: git clone https://github.com/your-username/Day-09---Mutiple-Checkboxes-check.git
 2. Open `index.html` in your web browser.
 
 ## Contributing
